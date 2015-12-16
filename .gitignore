@@ -1,6 +1,7 @@
 # Eclipse
+.cproject
 .project
-.class
+.classpath
 
 # Compiled Object files
 *.slo
