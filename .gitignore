@@ -1,3 +1,7 @@
+# Eclipse
+.project
+.class
+
 # Compiled Object files
 *.slo
 *.lo
@@ -26,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# vi/emacs
+*~
+*.bak
+*.swp
