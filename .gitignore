@@ -1,5 +1,6 @@
 # Eclipse
-# NONE YET
+.DS_Store
+.settings
 
 # Compiled Object files
 *.slo
